@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "name": "Your Name",
-  "description": "A Short Description",
+  "name": "Dennis Muensterer",
+  "description": "Developer & Maker",
   "sections": [
     {
       "title": "About Me",
@@ -13,10 +13,16 @@
       "type": "list",
       "items": [
         {
-          "title": "Company One",
-          "description": "Software Engineer.",
-          "url": "https://example.com",
-          "date": "2025–Present"
+          "title": "3st",
+          "description": "Full Stack Developer",
+          "url": "https://3st.de",
+          "date": "2024–Present"
+        },
+        {
+          "title": "hpm",
+          "description": "Developer",
+          "url": "https://hpm.agency",
+          "date": "2019–2024"
         }
       ]
     },
@@ -26,11 +32,11 @@
       "links": [
         {
           "title": "Website",
-          "url": "https://example.com"
+          "url": "https://muensterer.tech"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/example"
+          "url": "https://github.com/dnnsmnstrr"
         }
       ]
     }
